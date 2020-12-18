@@ -1,12 +1,12 @@
 
 # Requirements
 ## Routes
-- Index, Show, New, Update, Delete
+- Index, New, Update, Delete
 ## Views
 - Figures, Accessories, Vehicles/Playsets
 - All routes for each view
 ## Models
-- Figures, Accessories, Vehicles/Playsets
+- Figures, Accessories, Vehicles/Playsets, Images
 # User Stories
 
 
@@ -39,3 +39,14 @@
 ## navigation
 - As a user, I can navigate back to the index view from any page
 - As a user, I can navigate back to the new view from any page
+
+
+## Technologies Used 
+
+* Node.js
+* React
+* Axios
+* Express 
+* Mongo
+
+## MRD
